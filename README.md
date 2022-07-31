@@ -12,7 +12,7 @@
   <img width="400" src="https://github.com/LindsayTeeters/Challenge-18/blob/main/Resources/TradedCrypto.png" alt="Crypto Currency">
 </p>
 
-We supplied a visual of a 3D model that Martha can use in her presentation.
+We used Plotly Express to plot the three clusters from the dataframe in a 3D Scatterplot. This can be used in Martha's presention. 
   <p align="center">
   <img width="400" src="https://github.com/LindsayTeeters/Challenge-18/blob/main/Resources/3D%20model_D4.png" alt="Crypto Currency">
 </p>
