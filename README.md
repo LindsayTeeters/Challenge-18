@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="500" src="https://github.com/LindsayTeeters/Challenge-18/blob/main/Resources/CryptoMiningImage.png" alt="Crypto Currency">
+  <img width="400" src="https://github.com/LindsayTeeters/Challenge-18/blob/main/Resources/CryptoMiningImage.png" alt="Crypto Currency">
 </p>
 
   Martha is a senior manager for the Advisory Services Team at Accountability Accounting. She would like out help to pull together data to present to her company. They would like to expand their portfolio invesments for their customers by offering Cryptocurrencies. 
